@@ -1,0 +1,10 @@
+WebApp:
+  label: WebApp
+  labelPlural: WebApps
+  name: Name
+  hostname: Hostname
+  image: Image
+  port: Port
+  replicas: Replicas
+  availableReplicas: Available Replicas
+  deploymentConditions: Deployment Conditions 
